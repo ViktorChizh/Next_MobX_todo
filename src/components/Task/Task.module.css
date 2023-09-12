@@ -1,0 +1,48 @@
+.btn {
+    width: 100%;
+    padding: 1.2rem;
+    color: var(--color-ligth);
+    background-color: var(--color-accent);
+    border: none;
+    border-radius: var(--border-radius);
+  }
+
+  .btn:hover {
+    background-color: var(--color-add);
+    color: var(--color-dark);
+  }
+
+  .task {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 1.5rem;
+    color: var(--color-ligth);
+    text-align: left;
+  }
+
+  .task:last-child {
+    margin-bottom: 0;
+  }
+
+  .wrapperBtn {
+    display: flex;
+    gap: 1rem;
+    align-items: center;
+  }
+  .list {
+    padding: 2rem;
+    background-color: var(--color-lavender);
+    border-radius: var(--border-radius);
+    border: 2px solid var(--color-accent);
+  }
+
+  .main {
+    padding: 0 2rem;
+  }
+
+  .noTask{
+    color: var(--color-add);
+    text-align: center;
+  }
+

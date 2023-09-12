@@ -1,0 +1,9 @@
+.header {
+    width: 100%;
+}
+
+.h1 {
+    padding: 1.2rem;
+    color: var(--color-add);
+    text-align: center;
+}
