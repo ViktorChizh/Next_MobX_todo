@@ -1,5 +1,6 @@
 {
   "name": "todo",
+  "homepage": "https://ViktorChizh.github.io/Next_MobX_todo",
   "version": "0.1.0",
   "private": true,
   "scripts": {
