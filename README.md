@@ -1,2 +1,2 @@
-# Next_MobX_todo
-# Получение практического опыта при изучении  Next.js и MObX
+# TypeScript_Next_MobX_todo
+# Gaining hands-on experience learning TypeScript, Next.js and MObX using a simple ToDo example
